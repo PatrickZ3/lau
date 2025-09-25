@@ -23,7 +23,7 @@ trs w add my scripts for the database.
 in **db.js** u need to add this line for socketPath
 
 ```javascript
-password: '2688',                 // your MySQL password (leave blank if none)
+password: '2688',              
 database: 'myapp',                // your database name 
 socketPath: '/tmp/mysql.sock',    // add this line <-----
 waitForConnections: true,

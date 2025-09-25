@@ -2,7 +2,7 @@
 
 halo lau imma assume u udh set up the database correctly and cuman mau show it in front end
 
-this are the things i did
+these are the things i did
 
 ---
 

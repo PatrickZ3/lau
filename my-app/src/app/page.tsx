@@ -8,6 +8,8 @@ export default async function DataDisplayPage() {
   } else if ('rows' in result && Array.isArray((result as any).rows)) {
     users = (result as any).rows;
   }
+
+  console.log(result);
   const totalRecords = users.length;
 
   return (
